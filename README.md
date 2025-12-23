@@ -14,7 +14,10 @@
 
 ## Author
 
-👤 **Vortex**
+👤 **Vortex-macos**
+👤 **Aditya-Kumar**
+👤 **Kumar-Aarav**
+👤 **Vaidik-Dev-Sen**
 
 * Website: chinmaya-org.vercel.app
 * Github: [@Vortex-macos](https://github.com/Vortex-macos)
