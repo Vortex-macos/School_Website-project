@@ -10,13 +10,13 @@
 
 > In this project we are trying to create best website for our school which must be better than our school's website. We focus on solving the school websites probems and faults to make our website perfect and secure!!
 
-### ✨ [Demo](chinmaya-org.vercel.app)
+### ✨ [Demo]([chinmaya-org.vercel.app](https://github.com/Vortex-macos/School_Website-project))
 
 ## Author
 
 👤 **Vortex**
 
-* Website: vort-folio.vercel.app
+* Website: chinmaya-org.vercel.app
 * Github: [@Vortex-macos](https://github.com/Vortex-macos)
 
 ## Show your support
